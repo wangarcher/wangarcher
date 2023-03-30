@@ -1,5 +1,4 @@
-### Hi there 👋 
-### This is Wang Archer!
+### This is Wang Archer
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wangarcher)
 [![Homepage](https://img.shields.io/badge/-Homepage-c14438?style=flat&logo=Homepage&logoColor=white)](https://wangarcher.github.io/)
