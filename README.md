@@ -2,9 +2,10 @@
 ### This is Wang Archer!
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wangarcher)
+[![Homepage](https://img.shields.io/badge/-Homepage-c14438?style=flat&logo=Homepage&logoColor=white)](https://wangarcher.github.io/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](archer7wang@gmail.com)
  
-Welcome to my Github page! I am Wang and I am currently a Ph.D candidate at the Harbin Institute of Technology.  
+Welcome to my Github page! I am Wang Yifei and I am currently a Ph.D candidate at the Harbin Institute of Technology.  
   
  
 #### 🌱 Things I am currently working on:  
@@ -20,11 +21,7 @@ Welcome to my Github page! I am Wang and I am currently a Ph.D candidate at the 
  
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wangarcher&show_icons=true&hide_border=true" />
- 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=wangarcher&show_icons=true&hide_border=true" />
 </p>
  
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
