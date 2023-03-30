@@ -15,11 +15,11 @@ Welcome to my Github page! I am Wang Yifei and I am currently a Ph.D candidate a
 - Read the original master piece,The lord of the ring 
 
 
-#### ⚡ Things recent ones I'm interested in ⚡ : 
+#### ⚡ Things recent ones I'm interested in: 
 - Chat GPT
 - NeRF
- 
-#### :computer: Programming languages and tools: 
+
+
 <p>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=wangarcher&show_icons=true&hide_border=true" />
 </p>
