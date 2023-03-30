@@ -22,5 +22,4 @@ Welcome to my Github page! I am Wang Yifei and I am currently a Ph.D candidate a
 <p>
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=wangarcher&show_icons=true&hide_border=true" />
 </p>
- 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
